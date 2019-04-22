@@ -53,9 +53,9 @@ class GMM_UBM():
         winner = np.argmax(gmm_log_likelihood)
        
         if gmm_log_likelihood[winner] - ubm_log_likelihood[winner] > 0:
-            return (gmm_log_likelihood[winner], ubm_log_likelihood[winner], True, self.speakers[winner])
+            return (True, self.speakers[winner])
         else:
-            return (gmm_log_likelihood[winner], ubm_log_likelihood[winner], False, self.speakers[winner])
+            return (False, self.speakers[winner])
 
 if __name__ == "__main__":
     test_file = "testSamplePath.txt"

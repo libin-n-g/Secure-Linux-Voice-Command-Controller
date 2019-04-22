@@ -1,0 +1,11 @@
+/home/libin/project/SpeechRecognition/TrainingData/Open_Chromium/openchromium_17.wav
+/home/libin/project/SpeechRecognition/TrainingData/Open_Chromium/openchromium_4.wav
+/home/libin/project/SpeechRecognition/TrainingData/Open_Firefox/open_firefox_4.wav
+/home/libin/project/SpeechRecognition/TrainingData/Open_Firefox/open_firefox_8.wav
+/home/libin/project/SpeechRecognition/TrainingData/Silence/silence_4.wav
+/home/libin/project/speechfile.wav
+/home/libin/project/file.wav
+/home/libin/project/SpeechRecognition/TestingData/open_chromium_19.wav
+/home/libin/project/SpeechRecognition/TestingData/open_chromium_20.wav
+/home/libin/project/SpeechRecognition/TestingData/open_firefox_19.wav
+/home/libin/project/SpeechRecognition/TestingData/open_firefox_20.wav
